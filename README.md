@@ -947,4 +947,3 @@ require('trooba')
     .create()
     .request({foo:'bar'}, console.log);
 ```
-# trooba.github.io
